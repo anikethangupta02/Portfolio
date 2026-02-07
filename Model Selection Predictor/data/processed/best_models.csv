@@ -1,0 +1,10 @@
+dataset_id,best_model
+31,rf
+37,log_reg
+44,xgb
+50,log_reg
+1461,log_reg
+1480,log_reg
+1590,xgb
+4134,xgb
+41945,log_reg
