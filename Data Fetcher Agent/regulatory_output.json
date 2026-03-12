@@ -1,0 +1,13 @@
+{
+    "report_type": "AML_KYC_Compliance",
+    "generated_at": "2026-03-11 13:41:04.882758",
+    "metrics": {
+        "total_transactions": 1500,
+        "flagged_transactions": 930,
+        "total_transaction_volume": 38590326.09,
+        "pending_kyc_customers": 44,
+        "high_risk_customers": 22,
+        "total_accounts": 300,
+        "average_account_balance": 104558.44106666667
+    }
+}
