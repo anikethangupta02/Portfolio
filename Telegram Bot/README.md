@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ## 3. Add API Keys
 
-Edit `config.py`:
+Edit `.env`:
 
 ```python
 TELEGRAM_TOKEN = "your_telegram_token"
